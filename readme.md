@@ -1,4 +1,5 @@
-# GameParty
+# GameParty (https://gameparty.vercel.app)
+
 Authors: Rajashow Parajuli, Hsien-Tien Shen, Alex Juan's hack for Auth0 Hackathon.
 ## Running the Program
 Run `npm i && npm start` for under both `./server/` and `./client/`
